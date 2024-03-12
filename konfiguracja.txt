@@ -1,0 +1,10 @@
+usr0:kol0
+usr1:kol1
+usr2:kol2
+usr3:kol3
+usr4:kol4
+usr5:kol5
+usr6:kol6
+usr7:kol7
+usr8:kol8
+usr9:kol9
